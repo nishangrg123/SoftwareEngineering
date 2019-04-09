@@ -109,4 +109,4 @@ void mxv(int m, int n, double *a, double *b, double *c)
     double final_time = (end - start)*1000;
     printf("Time of computation: %f ms\n", final_time);
 
-}
+}//this is from the localBranch
